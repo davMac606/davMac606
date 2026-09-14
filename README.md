@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Gamma!</h1>
+<h1 align="center">Hi, I'm Nana!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanaluvsu&label=Profile%20views&color=0e75b6&style=flat" alt="nanaluvsu" /> </p>
-
-- 🌱 I’m currently learning **Kotlin, Astro**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nanaluvsu?tab=repositories](https://github.com/nanaluvsu?tab=repositories)
 
